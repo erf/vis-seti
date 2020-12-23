@@ -2,8 +2,14 @@
 
 A seti theme for the [vis editor](https://github.com/martanne/vis). 
 
-The theme file is in `seti.lua` in addition you can require the `init.lua` as
+## Usage
+
+The theme file is `seti.lua`.
+
+You can also `require` `init.lua` as 
 a [plugin](https://github.com/martanne/vis/wiki/Plugins), which calls `set_theme` on `INIT`.
+
+## Screenshot
 
 ![Screenshot](screenshot.png)
 
